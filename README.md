@@ -10,9 +10,9 @@ This bot will be capable of giving you the right answers for your questions.
 
 * In the long run
 
-** It will have multiple textbooks related to the subject in its database
-** It will be able to filter out passages based on some heuristic method [Another AI]
-** Pass the selected passage to BERT model for selecting answers
+    * It will have multiple textbooks related to the subject in its database
+    * It will be able to filter out passages based on some heuristic method [Another AI]
+    * Pass the selected passage to BERT model for selecting answers
 
 * Optimize
 
